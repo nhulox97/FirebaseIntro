@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "5672016439",
+    "firebase_url": "https://wfireintro.firebaseio.com",
+    "project_id": "wfireintro",
+    "storage_bucket": "wfireintro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5672016439:android:33929f23edf1ff58",
+        "android_client_info": {
+          "package_name": "com.nhulox.dosv.firebaseintro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5672016439-6dcafse1ekgvvjnar9q621flmkes3lbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nhulox.dosv.firebaseintro",
+            "certificate_hash": "dcb756d926c99790942fa64e9a5eb5d320d0996f"
+          }
+        },
+        {
+          "client_id": "5672016439-pqu3ce8hdse66t4a4qqjbn7ri0snfh89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4qqvkRrTn69MMC0od-EMjly2Sbn1Ndoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5672016439-pqu3ce8hdse66t4a4qqjbn7ri0snfh89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
